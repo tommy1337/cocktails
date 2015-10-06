@@ -2,3 +2,13 @@
 body {
   background: lime;
 }
+
+/* line 3, ../../private/sass/style.sass */
+html {
+  background: magenta;
+}
+
+/* line 5, ../../private/sass/style.sass */
+.hidden {
+  display: none;
+}
