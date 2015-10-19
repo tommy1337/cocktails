@@ -7,3 +7,11 @@ body {
 html {
   background: magenta;
 }
+<<<<<<< HEAD
+=======
+
+/* line 5, ../../private/sass/style.sass */
+.hidden {
+  display: none;
+}
+>>>>>>> deb16e1f2e9c0025c6856a9efff2f50304e78400
