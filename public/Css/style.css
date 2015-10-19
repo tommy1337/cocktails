@@ -2,3 +2,8 @@
 body {
   background: lime;
 }
+
+/* line 3, ../../private/sass/style.sass */
+html {
+  background: magenta;
+}
